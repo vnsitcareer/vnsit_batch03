@@ -1,0 +1,39 @@
+Program is nothing but a set of instructions given to CPU to perform a particular task.
+CPU can't understand our language
+we can't understand binary language 
+So we need a converter to convert our language to binary language
+1. compiler 
+2. Interpreter 
+
+Languages which uses compiler to convert from high level to low level are called programming languages( Java, C, .net)
+
+Languages which uses interpreter to convert from high level to low level are called Scripting languages ( shell, JS, perl, VB scripting, batch )
+
+1. Name/Identifier should contain only numbers, alphabets and _  
+2. It should not start with numbers 
+3. It should not contain only numbers 
+4. Length of the name can be infinite but it is recommended to use the valid names 
+5. Can we use predefined(buitin) names? Yes, but not recommended 
+6. we can't use keywords as names ----> Reserved words 
+
+inputs/outputs 
+console based 
+file based 
+web based 
+GUI based 
+call based 
+sms based 
+sensor based 
+
+Operators 
+Arthimatic operators  ---> +, -, *, /, //, %, ** 
+Logical operators -----> and, or, not 
+relational(comparative) operators  ----> >, <, ==, >=, <=, != 
+Assignment operators -----> =, +=, -=, --> with every arthimatic operator 
+bitwise operators ---> |, &, <<, >> 
+membership operators  ----> in, not in 
+identity operators   ----> is, is not 
+
+All integers(positive or negative) will be converted to True except 0
+python is a dynamic typing programming language
+
