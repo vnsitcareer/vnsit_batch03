@@ -1,0 +1,12 @@
+{
+    "test_positive": {
+        "actual_value": 10,
+        "val1": 6,
+        "val2": 4
+    },
+    "test_negative": {
+        "actual_value": 12,
+        "val1": 10,
+        "val2": 4
+    }
+}
